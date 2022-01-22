@@ -27,6 +27,6 @@ They can be sent pre- or post-Fat Channel EQ and dynamics.
 <img src="/pics/UCSends.png" width="40%"> <br />
 
 ###### Studio One 5
-In Studio One 5 the option can be toggled in the mixer too. At the top of a channel it says "Fat Channel". Toggle the rectangle and slider yellow/grey. This is synced with UniversalControl. <br />
+In Studio One 5 the option can be toggled in the mixer too. At the top of a channel it says "Fat Channel". Toggle the rectangle and slider orange/grey. This is synced with UniversalControl. <br />
 
 <img src="/pics/StudioOneFatChannel.png" width="40%">
