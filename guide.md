@@ -1,5 +1,15 @@
 # Using PreSonus STUDIOLIVE 32R
 
+### MIXING & MONITORING
+
+Läs bifogade pdfs om
+
+* Create a monitor mix mono/stereo
+* Main out
+* Fat Channel
+* USB Sends
+* Digital Return
+
 ### DAW
 
 #### Digital Send options
